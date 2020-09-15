@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ErpApplication<erp>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "erp.mandixsoft.com.erp.ErpApplication",
+            "projectName": "erp",
+            "args": ""
+        }
+    ]
+}
